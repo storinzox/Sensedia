@@ -6,7 +6,7 @@ API.
 - Site https://trello.com/
 
 ## 📄 Funcionalidades 
-<b>Cenários>/b>
+<b>Cenários</b>
 - Autenticação no Trello APIs (obter token de acesso);
 - Criação de cards;
 - Edição de cards;
@@ -26,10 +26,10 @@ robot -d report  .\trello_test.robot
 Em construção
 
 ## 💬 Autor
-Robson Diony Baliero
-Software Quality Assurance Engineer
+Robson Diony Baliero<br>
+Software Quality Assurance Engineer<br><br>
 
-https://www.linkedin.com/in/rdiony/
-http://www.instagram.com/storinzox/
-http://www.facebook.com/storinzox
-http://www.twitter.com/rdiony
+https://www.linkedin.com/in/rdiony/ <br>
+http://www.instagram.com/storinzox/ <br>
+http://www.facebook.com/storinzox <br>
+http://www.twitter.com/rdiony <br>
